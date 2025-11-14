@@ -1,4 +1,0 @@
-[project]
-name = "fnafgmz"
-type = "static"
-publish = "."
